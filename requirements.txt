@@ -2,8 +2,9 @@ flask
 flask-sqlalchemy
 flask-migrate
 flask-swagger-ui
-postmark
+postmarker
 flasgger
 flask_apispec
 apispec-webframeworks
 marshmallow_sqlalchemy
+uuid
