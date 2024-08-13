@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+flask-migrate
+flask-swagger-ui
+postmark
+flasgger
+flask_apispec
+apispec-webframeworks
+marshmallow_sqlalchemy
